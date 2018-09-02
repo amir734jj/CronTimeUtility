@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp2.0</TargetFramework>
+        <PackageProjectUrl>https://github.com/amir734jj/CronTimeUtility.git</PackageProjectUrl>
+        <Title>CronTimeUtility</Title>
+        <ReleaseVersion>1.1</ReleaseVersion>
+        <Authors>Hesamian</Authors>
+        <Description>Cron Time Utility written in F#</Description>
+        <PackageVersion>1</PackageVersion>
+        <Owners>hesamian</Owners>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="Library.fs"/>
+    </ItemGroup>
+
+</Project>
