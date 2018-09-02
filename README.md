@@ -17,5 +17,6 @@ Then:
 ```csharp
 utility.Minutely()
 utility.Minutely(...)
-... And more
+
+... etc.
 ...
