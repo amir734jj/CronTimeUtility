@@ -1,6 +1,8 @@
 # CronTimeUtility
 Cron Time Utility written in F# targeting .NET Core 2.0
 
+[Nuget](https://www.nuget.org/packages/CronTimeUtility/)
+
 In F#:
 
 ```fsharp
